@@ -1,0 +1,913 @@
+***************************************
+BEGIN: Unregistering Component Package
+***************************************
+
+Reading Extra Paths from Setup.ini
+   d:\projects\proj\Soft Gems\Virtual Treeview\Source
+
+Cleaning Known Package Registry Entry
+
+Reading Packages:
+c:\program files\borland\delphi7\Bin\idl2paswizardpkg.bpl
+c:\program files\borland\delphi7\Bin\dclite70.bpl
+c:\program files\borland\delphi7\Bin\dclnet70.bpl
+$(Delphi)\Bin\dclstd70.bpl
+c:\program files\borland\delphi7\Bin\dclmcn70.bpl
+$(Delphi)\Bin\dclmid70.bpl
+$(Delphi)\Bin\dcldb70.bpl
+c:\program files\borland\delphi7\Bin\dclsoap70.bpl
+c:\program files\borland\delphi7\Bin\dclocx70.bpl
+c:\program files\borland\delphi7\Bin\dclsmp70.bpl
+c:\program files\borland\delphi7\Bin\dcldbx70.bpl
+c:\program files\borland\delphi7\Bin\dcldbxcds70.bpl
+c:\program files\borland\delphi7\Bin\DBWEBXPRT.BPL
+$(Delphi)\Bin\dclbde70.bpl
+$(Delphi)\Bin\dbx70.bpl
+c:\program files\borland\delphi7\Bin\dclwbm70.bpl
+c:\program files\borland\delphi7\Bin\dclie70.bpl
+c:\program files\borland\delphi7\Bin\dclwebsnap70.bpl
+c:\program files\borland\delphi7\Bin\dclado70.bpl
+c:\program files\borland\delphi7\Bin\DCLIB70.bpl
+c:\program files\borland\delphi7\Bin\dclclxdb70.bpl
+$(Delphi)\Bin\dclclxstd70.bpl
+c:\program files\borland\delphi7\Bin\dclsmpedit70.bpl
+c:\program files\borland\delphi7\Bin\applet70.bpl
+c:\program files\borland\delphi7\Bin\dclemacsedit70.bpl
+c:\program files\borland\delphi7\Bin\dclact70.bpl
+c:\program files\borland\delphi7\Bin\dclmlwiz70.bpl
+c:\program files\borland\delphi7\Bin\dcl31w70.bpl
+$(SystemRoot)\system32\ibevnt70.bpl
+c:\program files\borland\delphi7\Bin\dclshlctrls70.bpl
+c:\program files\borland\delphi7\Bin\dclIntraweb_50_70.bpl
+c:\program files\borland\delphi7\bin\dclRave70.bpl
+c:\program files\borland\delphi7\Bin\dclofficexp70.bpl
+D:\projects\proj\Raize\RC4\Bin\RaizeComponentsVcl_Design70.bpl
+D:\projects\proj\Raize\RC4\Bin\RaizeComponentsVclDB_Design70.bpl
+c:\program files\borland\delphi7\Projects\Bpl\checklisteditpkgd7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\GR32_D7.bpl
+$(Delphi)\Bin\dclsockets70.bpl
+c:\program files\borland\delphi7\Projects\Bpl\advmemopkgd7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\VirtualTreesD7D.bpl
+$(Delphi)\Projects\Bpl\DclTee87.bpl
+c:\program files\borland\delphi7\Projects\Bpl\DclTeePro87.bpl
+$(Delphi)\Projects\Bpl\DclRx7.bpl
+$(Delphi)\Projects\Bpl\wmiset70.bpl
+$(Delphi)\Projects\Bpl\VclCommon70.bpl
+c:\program files\borland\delphi7\Projects\Bpl\txlsdpk.bpl
+$(Delphi)\Projects\Bpl\JclBaseExpert70.bpl
+$(Delphi)\Projects\Bpl\JclDebugExpert70.bpl
+$(Delphi)\Projects\Bpl\JclProjectAnalysisExpert70.bpl
+$(Delphi)\Projects\Bpl\JclFavoriteFoldersExpert70.bpl
+$(Delphi)\Projects\Bpl\JclRepositoryExpert70.bpl
+$(Delphi)\Projects\Bpl\JclUsesExpert70.bpl
+$(Delphi)\Projects\Bpl\JclSIMDViewExpert70.bpl
+c:\program files\borland\delphi7\Projects\Bpl\GR32_DSGN_D7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclIndyCore70.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclIndyProtocols70.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclrxbd7.bpl
+$(Delphi)\Projects\Bpl\DclRxDb7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\Package1.bpl
+$(Delphi)\Bin\dcldac70.bpl
+$(Delphi)\Bin\dacvcl70.bpl
+$(Delphi)\Bin\CrControls70.bpl
+$(Delphi)\Bin\DataSetManager70.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclusr70.bpl
+c:\program files\borland\delphi7\Bin\dclindy70.bpl
+$(ProgramFiles)\TXLSFile\UNREG_D7\Bpl\xf40_unr_d7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dcldxBarD7.bpl
+$(Delphi)\Projects\Bpl\dclcxLibraryVCLD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dcldxRibbonD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclcxPageControlVCLD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclcxEditorsVCLD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclcxGridD7.bpl
+$(Delphi)\Projects\Bpl\dclcxExtEditorsVCLD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclcxBarEditItemD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dcldxBarExtItemsD7.bpl
+c:\program files\borland\delphi7\Bin\dcltee70.bpl
+c:\program files\borland\delphi7\Bin\dcldss70.bpl
+$(Delphi)\Bin\dclsdac70.bpl
+ 
+Stripping off path and extension
+idl2paswizardpkg
+dclite70
+dclnet70
+dclstd70
+dclmcn70
+dclmid70
+dcldb70
+dclsoap70
+dclocx70
+dclsmp70
+dcldbx70
+dcldbxcds70
+DBWEBXPRT
+dclbde70
+dbx70
+dclwbm70
+dclie70
+dclwebsnap70
+dclado70
+DCLIB70
+dclclxdb70
+dclclxstd70
+dclsmpedit70
+applet70
+dclemacsedit70
+dclact70
+dclmlwiz70
+dcl31w70
+ibevnt70
+dclshlctrls70
+dclIntraweb_50_70
+dclRave70
+dclofficexp70
+RaizeComponentsVcl_Design70
+RaizeComponentsVclDB_Design70
+checklisteditpkgd7
+GR32_D7
+dclsockets70
+advmemopkgd7
+VirtualTreesD7D
+DclTee87
+DclTeePro87
+DclRx7
+wmiset70
+VclCommon70
+txlsdpk
+JclBaseExpert70
+JclDebugExpert70
+JclProjectAnalysisExpert70
+JclFavoriteFoldersExpert70
+JclRepositoryExpert70
+JclUsesExpert70
+JclSIMDViewExpert70
+GR32_DSGN_D7
+dclIndyCore70
+dclIndyProtocols70
+dclrxbd7
+DclRxDb7
+Package1
+dcldac70
+dacvcl70
+CrControls70
+DataSetManager70
+dclusr70
+dclindy70
+xf40_unr_d7
+dcldxBarD7
+dclcxLibraryVCLD7
+dcldxRibbonD7
+dclcxPageControlVCLD7
+dclcxEditorsVCLD7
+dclcxGridD7
+dclcxExtEditorsVCLD7
+dclcxBarEditItemD7
+dcldxBarExtItemsD7
+dcltee70
+dcldss70
+dclsdac70
+ 
+Reading Packages to remove
+VirtualTreesD7
+VirtualTreesD7D
+ 
+Stripping off path and extension
+VirtualTreesD7
+VirtualTreesD7D
+ 
+Scanning for previously installed packages....
+Deleting bpl file: C:\Program Files\Borland\Delphi7\Projects\Bpl\VirtualTreesD7.bpl
+File deleted
+Deleting dcp file: C:\Program Files\Borland\Delphi7\Projects\Bpl\VirtualTreesD7.dcp
+File deleted
+Deleting bpl file: C:\Program Files\Borland\Delphi7\Projects\Bpl\VirtualTreesD7D.bpl
+File deleted
+Deleting dcp file: C:\Program Files\Borland\Delphi7\Projects\Bpl\VirtualTreesD7D.dcp
+File deleted
+ 
+
+Known Package Registry Entry Cleaned
+
+Cleaning Disabled Package Registry Entry
+
+Reading Packages:
+c:\program files\borland\delphi7\Bin\dcldss70.bpl
+c:\program files\borland\delphi7\Bin\dcltee70.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dcldxBarD7.bpl
+$(Delphi)\Projects\Bpl\dclcxLibraryVCLD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dcldxRibbonD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclcxPageControlVCLD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclcxEditorsVCLD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclcxGridD7.bpl
+$(Delphi)\Projects\Bpl\dclcxExtEditorsVCLD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dclcxBarEditItemD7.bpl
+c:\program files\borland\delphi7\Projects\Bpl\dcldxBarExtItemsD7.bpl
+$(ProgramFiles)\TXLSFile\UNREG_D7\Bpl\xf40_unr_d7.bpl
+c:\program files\borland\delphi7\Bin\dclindy70.bpl
+$(Delphi)\Bin\dclsdac70.bpl
+ 
+Stripping off path and extension
+dcldss70
+dcltee70
+dcldxBarD7
+dclcxLibraryVCLD7
+dcldxRibbonD7
+dclcxPageControlVCLD7
+dclcxEditorsVCLD7
+dclcxGridD7
+dclcxExtEditorsVCLD7
+dclcxBarEditItemD7
+dcldxBarExtItemsD7
+xf40_unr_d7
+dclindy70
+dclsdac70
+ 
+Reading Packages to remove
+VirtualTreesD7
+VirtualTreesD7D
+ 
+Stripping off path and extension
+VirtualTreesD7
+VirtualTreesD7D
+ 
+Scanning for previously installed packages....
+Disabled Package Registry Entry Cleaned
+
+Reading Search Path Registry Entry
+C:\Program Files\Borland\Delphi7\Lib
+C:\Program Files\Borland\Delphi7\Bin
+C:\Program Files\Borland\Delphi7\Imports
+C:\Program Files\Borland\Delphi7\Projects\Bpl
+C:\Program Files\Borland\Delphi7\Rave5\Lib
+d:\projects\proj\sas
+D:\projects\proj\RX\Units
+D:\projects\proj\Raize\RC4\Lib\Delphi7
+d:\projects\proj\checklisteditd7
+D:\projects\proj\graphics32-1-8-2\graphics32-1-8-2
+D:\projects\proj\advoutlooklistd7
+d:\projects\proj\Soft Gems\Virtual Treeview\Source
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressCommon Library\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressGDI+ Library\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\XP Theme Manager\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressLibrary\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressBars 6\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressPageControl 2\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressQuantumGrid 6\Packages
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressDataController\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressEditors Library 5\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressExport Library\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressQuantumGrid 6\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressEditors Library 5\Packages
+C:\Program Files\Borland\Delphi7\Source\ToolsAPI
+D:\projects\proj\advmemocode
+d:\projects\proj
+C:\Program Files\Borland\Delphi7\Projects\Bpl
+D:\projects\proj\Teechart_v8.01_FS\Sources
+c:\SystemComponents\common
+c:\SystemComponents\wmiset
+c:\program files\txlsfile\unreg_d7\bpl
+C:\Program Files\TXLSFile\UNREG_D7\DCU
+D:\projects\proj\jedi\lib\d7
+D:\projects\proj\jedi\source
+D:\projects\proj\FastMM490\FastMM4
+D:\projects\proj\graphics32-1-8-2\graphics32
+D:\projects\proj\jedi\directx\Borland_D6-7
+D:\projects\proj\indy10\Lib\System
+d:\projects\proj\tree
+D:\projects\proj\Raize\RC4\Source
+D:\projects\proj\GraphicEx
+d:\projects\proj\package1
+C:\Program Files\Devart\Sdac for Delphi 7\Lib
+C:\Program Files\Devart\Sdac for Delphi 7\Bin
+    
+Deleting entry from Search Path Registry Entry:
+    d:\projects\proj\Soft Gems\Virtual Treeview\Source
+    
+Writing Search Path Registry Entry
+Removing extra characters and blank lines
+Formatting.....
+$(Delphi)\Lib
+$(Delphi)\Bin
+$(Delphi)\Imports
+$(Delphi)\Projects\Bpl
+$(Delphi)\Rave5\Lib
+d:\projects\proj\sas
+D:\projects\proj\RX\Units
+D:\projects\proj\Raize\RC4\Lib\Delphi7
+d:\projects\proj\checklisteditd7
+D:\projects\proj\graphics32-1-8-2\graphics32-1-8-2
+D:\projects\proj\advoutlooklistd7
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressCommon Library\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressGDI+ Library\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\XP Theme Manager\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressLibrary\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressBars 6\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressPageControl 2\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressQuantumGrid 6\Packages
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressDataController\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressEditors Library 5\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressExport Library\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressQuantumGrid 6\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressEditors Library 5\Packages
+$(Delphi)\Source\ToolsAPI
+D:\projects\proj\advmemocode
+d:\projects\proj
+$(Delphi)\Projects\Bpl
+D:\projects\proj\Teechart_v8.01_FS\Sources
+c:\SystemComponents\common
+c:\SystemComponents\wmiset
+c:\program files\txlsfile\unreg_d7\bpl
+$(ProgramFiles)\TXLSFile\UNREG_D7\DCU
+D:\projects\proj\jedi\lib\d7
+D:\projects\proj\jedi\source
+D:\projects\proj\FastMM490\FastMM4
+D:\projects\proj\graphics32-1-8-2\graphics32
+D:\projects\proj\jedi\directx\Borland_D6-7
+D:\projects\proj\indy10\Lib\System
+d:\projects\proj\tree
+D:\projects\proj\Raize\RC4\Source
+D:\projects\proj\GraphicEx
+d:\projects\proj\package1
+$(ProgramFiles)\Devart\Sdac for Delphi 7\Lib
+$(ProgramFiles)\Devart\Sdac for Delphi 7\Bin
+Writing to Key: Software\Borland\Delphi\7.0\Library  Value: Search Path
+Search Path Registry Entry written
+
+Reading Browse Path Registry Entry
+C:\Program Files\Borland\Delphi7\source\vcl
+C:\Program Files\Borland\Delphi7\Source\Rtl
+C:\Program Files\Borland\Delphi7\source\rtl\Corba45
+C:\Program Files\Borland\Delphi7\source\rtl\Sys
+C:\Program Files\Borland\Delphi7\source\rtl\Win
+C:\Program Files\Borland\Delphi7\source\rtl\common
+C:\Program Files\Borland\Delphi7\source\Internet
+C:\Program Files\Borland\Delphi7\source\clx
+C:\Program Files\Borland\Delphi7\source\websnap
+C:\Program Files\Borland\Delphi7\Source\WebMidas
+C:\Program Files\Borland\Delphi7\Source\Indy
+C:\Program Files\Borland\Delphi7\Source\IntraWeb
+C:\Program Files\Borland\Delphi7\Source\Samples
+C:\Program Files\Borland\Delphi7\Source\Soap
+C:\Program Files\Borland\Delphi7\Source\ToolsAPI
+C:\Program Files\Borland\Delphi7\Source\Xml
+D:\projects\proj\jedi\source\common
+D:\projects\proj\jedi\source\windows
+D:\projects\proj\jedi\source\vcl
+D:\projects\proj\jedi\source\visclx
+    
+    
+Writing Browse Path Registry Entry
+Removing extra characters and blank lines
+Formatting.....
+$(Delphi)\source\vcl
+$(Delphi)\Source\Rtl
+$(Delphi)\source\rtl\Corba45
+$(Delphi)\source\rtl\Sys
+$(Delphi)\source\rtl\Win
+$(Delphi)\source\rtl\common
+$(Delphi)\source\Internet
+$(Delphi)\source\clx
+$(Delphi)\source\websnap
+$(Delphi)\Source\WebMidas
+$(Delphi)\Source\Indy
+$(Delphi)\Source\IntraWeb
+$(Delphi)\Source\Samples
+$(Delphi)\Source\Soap
+$(Delphi)\Source\ToolsAPI
+$(Delphi)\Source\Xml
+D:\projects\proj\jedi\source\common
+D:\projects\proj\jedi\source\windows
+D:\projects\proj\jedi\source\vcl
+D:\projects\proj\jedi\source\visclx
+Writing to Key: Software\Borland\Delphi\7.0\Library  Value: Browsing Path
+Browse Path Registry Entry written
+
+***************************************
+END: Unregistering Component Package
+***************************************
+
+
+***************************************
+BEGIN: Compiling Component Package
+***************************************
+Validating Output Folders
+Creating temp compile folder
+Folder Created: C:\DOCUME~1\kobzarev\LOCALS~1\Temp\ESetup
+
+Config.ini -U Switch: C:\PROGRA~1\Borland\Delphi7\Lib;C:\PROGRA~1\Borland\Delphi7\Bin;C:\PROGRA~1\Borland\Delphi7\Imports;C:\PROGRA~1\Borland\Delphi7\Projects\Bpl;C:\PROGRA~1\Borland\Delphi7\Rave5\Lib;d:\projects\proj\sas;D:\projects\proj\RX\Units;D:\projects\proj\Raize\RC4\Lib\Delphi7;d:\projects\proj\CHECKL~1;D:\projects\proj\GRAPHI~1\GRAPHI~2;D:\projects\proj\ADVOUT~1;D:\projects\proj\DEVEXP~1.SUI\EXPRES~3\Sources;D:\projects\proj\DEVEXP~1.SUI\EXPRES~4\Sources;D:\projects\proj\DEVEXP~1.SUI\XPTHEM~1\Sources;D:\projects\proj\DEVEXP~1.SUI\EXPRES~2\Sources;D:\projects\proj\DEVEXP~1.SUI\EXPRES~1\Sources;D:\projects\proj\DEVEXP~2.SUI\EXC73B~1\Sources;D:\projects\proj\DEVEXP~2.SUI\EXPRES~1\Packages;D:\projects\proj\DEVEXP~2.SUI\EXPRES~3\Sources;D:\projects\proj\DEVEXP~2.SUI\EXPRES~4\Sources;D:\projects\proj\DEVEXP~2.SUI\EX7165~1\Sources;D:\projects\proj\DEVEXP~2.SUI\EXPRES~1\Sources;D:\projects\proj\DEVEXP~2.SUI\EXPRES~4\Packages;C:\PROGRA~1\Borland\Delphi7\Source\ToolsAPI;D:\projects\proj\ADVMEM~1;d:\projects\proj;C:\PROGRA~1\Borland\Delphi7\Projects\Bpl;D:\projects\proj\TEECHA~1.01_\Sources;c:\SYSTEM~2\common;c:\SYSTEM~2\wmiset;c:\PROGRA~1\txlsfile\unreg_d7\bpl;C:\PROGRA~1\TXLSFile\UNREG_D7\DCU;D:\projects\proj\jedi\lib\d7;D:\projects\proj\jedi\source;D:\projects\proj\FASTMM~1\FastMM4;D:\projects\proj\GRAPHI~1\GRAPHI~3;D:\projects\proj\jedi\directx\BORLAN~1;D:\projects\proj\indy10\Lib\System;d:\projects\proj\tree;D:\projects\proj\Raize\RC4\Source;D:\projects\proj\GRAPHI~2;d:\projects\proj\package1;C:\PROGRA~1\Devart\SDACFO~1\Lib;C:\PROGRA~1\Devart\SDACFO~1\Bin;
+Config.ini -I Switch: ..\Source
+Config.ini -LE Switch: C:\PROGRA~1\Borland\Delphi7\Projects\Bpl
+Config.ini -LN Switch: C:\PROGRA~1\Borland\Delphi7\Projects\Bpl
+Config.ini -N Switch: C:\DOCUME~1\kobzarev\LOCALS~1\Temp\ESetup
+
+Compiling....
+
+Redirector Working Dir: d:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi
+Redirector CreateProcess command: "C:\PROGRA~1\Borland\Delphi7\Bin\DCC32.exe" VirtualTreesD7.dpk
+
+
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(1) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(31) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(32) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(34) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(34) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(34) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(1)    
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\Compilers.inc(238)  
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\Compilers.inc(536) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTConfig.inc(26) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(295) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(295) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(297) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(1)       
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\Compilers.inc(480) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\Compilers.inc(536) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(45) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(45) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(45) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(70) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(489) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(661) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(663) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\MSAAIntf.pas(747) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(301) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(302) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(307) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(307) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(316) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(464) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(976) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(1488) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(2000) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(2512) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3024) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3536) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3873) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3874) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3874) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3874) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3878) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3878) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3879) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3880) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3881) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3885) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3886) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibilityFactory.pas(1) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\Compilers.inc(494)            
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\Compilers.inc(536) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibilityFactory.pas(29) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibilityFactory.pas(29) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibilityFactory.pas(31) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibilityFactory.pas(172) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(3888) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(4048) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(4560) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(5072) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(5584) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(6096) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(6608) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(7120) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(7632) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(8144) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(8656) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(9168) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(9680) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(10192) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(10704) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(11216) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(11728) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(12240) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(12752) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(13264) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(13776) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(14288) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(14800) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(15312) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(15824) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(16336) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(16848) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(17360) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(17872) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(18384) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(18896) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(19408) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(19920) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(20432) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(20944) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(21456) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(21968) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(22480) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(22992) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(23504) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(24016) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(24528) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(25040) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(25552) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(26064) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(26576) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(27088) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(27600) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(28112) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(28624) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(29136) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(29648) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(30160) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(30672) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(31184) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(31696) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(32208) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(32720) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(33232) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(33744) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(34256) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(34768) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(35280) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VirtualTrees.pas(35679) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(39) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTHeaderPopup.pas(1)   
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\Compilers.inc(447)   
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\Compilers.inc(536) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTHeaderPopup.pas(81) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTHeaderPopup.pas(83) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTHeaderPopup.pas(140) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTHeaderPopup.pas(260) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(39) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(39) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(1) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\Compilers.inc(500)     
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\Compilers.inc(536) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(18) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(18) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(20) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(26) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(107) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(113) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(489) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Source\VTAccessibility.pas(715) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(39) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(39) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(41) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7.dpk(43) 
+40322 lines, 1.55 seconds, 268556 bytes code, 1421 bytes data.
+
+
+Found compiled BPL file: C:\Program Files\Borland\Delphi7\Projects\Bpl\VirtualTreesD7.bpl
+
+
+Config.ini -U Switch: C:\PROGRA~1\Borland\Delphi7\Lib;C:\PROGRA~1\Borland\Delphi7\Bin;C:\PROGRA~1\Borland\Delphi7\Imports;C:\PROGRA~1\Borland\Delphi7\Projects\Bpl;C:\PROGRA~1\Borland\Delphi7\Rave5\Lib;d:\projects\proj\sas;D:\projects\proj\RX\Units;D:\projects\proj\Raize\RC4\Lib\Delphi7;d:\projects\proj\CHECKL~1;D:\projects\proj\GRAPHI~1\GRAPHI~2;D:\projects\proj\ADVOUT~1;D:\projects\proj\DEVEXP~1.SUI\EXPRES~3\Sources;D:\projects\proj\DEVEXP~1.SUI\EXPRES~4\Sources;D:\projects\proj\DEVEXP~1.SUI\XPTHEM~1\Sources;D:\projects\proj\DEVEXP~1.SUI\EXPRES~2\Sources;D:\projects\proj\DEVEXP~1.SUI\EXPRES~1\Sources;D:\projects\proj\DEVEXP~2.SUI\EXC73B~1\Sources;D:\projects\proj\DEVEXP~2.SUI\EXPRES~1\Packages;D:\projects\proj\DEVEXP~2.SUI\EXPRES~3\Sources;D:\projects\proj\DEVEXP~2.SUI\EXPRES~4\Sources;D:\projects\proj\DEVEXP~2.SUI\EX7165~1\Sources;D:\projects\proj\DEVEXP~2.SUI\EXPRES~1\Sources;D:\projects\proj\DEVEXP~2.SUI\EXPRES~4\Packages;C:\PROGRA~1\Borland\Delphi7\Source\ToolsAPI;D:\projects\proj\ADVMEM~1;d:\projects\proj;C:\PROGRA~1\Borland\Delphi7\Projects\Bpl;D:\projects\proj\TEECHA~1.01_\Sources;c:\SYSTEM~2\common;c:\SYSTEM~2\wmiset;c:\PROGRA~1\txlsfile\unreg_d7\bpl;C:\PROGRA~1\TXLSFile\UNREG_D7\DCU;D:\projects\proj\jedi\lib\d7;D:\projects\proj\jedi\source;D:\projects\proj\FASTMM~1\FastMM4;D:\projects\proj\GRAPHI~1\GRAPHI~3;D:\projects\proj\jedi\directx\BORLAN~1;D:\projects\proj\indy10\Lib\System;d:\projects\proj\tree;D:\projects\proj\Raize\RC4\Source;D:\projects\proj\GRAPHI~2;d:\projects\proj\package1;C:\PROGRA~1\Devart\SDACFO~1\Lib;C:\PROGRA~1\Devart\SDACFO~1\Bin;
+Config.ini -I Switch: ..\Source
+Config.ini -LE Switch: C:\PROGRA~1\Borland\Delphi7\Projects\Bpl
+Config.ini -LN Switch: C:\PROGRA~1\Borland\Delphi7\Projects\Bpl
+Config.ini -N Switch: C:\DOCUME~1\kobzarev\LOCALS~1\Temp\ESetup
+
+Compiling....
+
+Redirector Working Dir: d:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi
+Redirector CreateProcess command: "C:\PROGRA~1\Borland\Delphi7\Bin\DCC32.exe" VirtualTreesD7D.dpk
+
+
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7D.dpk(1) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7D.dpk(32) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7D.dpk(34) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7D.dpk(34) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7D.dpk(34) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(1)  
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\Compilers.inc(505)     
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\Compilers.inc(536) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(22) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(24) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(28) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(29) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(29) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(29) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(29) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(29) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(29) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(31) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(45) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(45) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(45) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(45) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(45) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(45) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(45) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(49) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(49) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(49) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(49) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(49) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(49) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(49) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(51) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(489) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Design\VirtualTreesReg.pas(635) 
+
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7D.dpk(35) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7D.dpk(37) 
+D:\projects\proj\SOFTGE~1\VIRTUA~1\Delphi\VirtualTreesD7D.dpk(39) 
+1211 lines, 0.86 seconds, 14516 bytes code, 153 bytes data.
+
+
+Found compiled BPL file: C:\Program Files\Borland\Delphi7\Projects\Bpl\VirtualTreesD7D.bpl
+
+
+ 
+Adding Package BPL to Registry
+Adding: $(Delphi)\Projects\Bpl\VirtualTreesD7D.bpl
+***************************************
+END: Compiling Component Package
+***************************************
+
+***************************************
+BEGIN: Registering Component Package Paths
+***************************************
+
+Reading Search Path Registry Entry
+Search Path Registry Entry Read...
+C:\Program Files\Borland\Delphi7\Lib
+C:\Program Files\Borland\Delphi7\Bin
+C:\Program Files\Borland\Delphi7\Imports
+C:\Program Files\Borland\Delphi7\Projects\Bpl
+C:\Program Files\Borland\Delphi7\Rave5\Lib
+d:\projects\proj\sas
+D:\projects\proj\RX\Units
+D:\projects\proj\Raize\RC4\Lib\Delphi7
+d:\projects\proj\checklisteditd7
+D:\projects\proj\graphics32-1-8-2\graphics32-1-8-2
+D:\projects\proj\advoutlooklistd7
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressCommon Library\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressGDI+ Library\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\XP Theme Manager\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressLibrary\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressBars 6\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressPageControl 2\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressQuantumGrid 6\Packages
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressDataController\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressEditors Library 5\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressExport Library\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressQuantumGrid 6\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressEditors Library 5\Packages
+C:\Program Files\Borland\Delphi7\Source\ToolsAPI
+D:\projects\proj\advmemocode
+d:\projects\proj
+C:\Program Files\Borland\Delphi7\Projects\Bpl
+D:\projects\proj\Teechart_v8.01_FS\Sources
+c:\SystemComponents\common
+c:\SystemComponents\wmiset
+c:\program files\txlsfile\unreg_d7\bpl
+C:\Program Files\TXLSFile\UNREG_D7\DCU
+D:\projects\proj\jedi\lib\d7
+D:\projects\proj\jedi\source
+D:\projects\proj\FastMM490\FastMM4
+D:\projects\proj\graphics32-1-8-2\graphics32
+D:\projects\proj\jedi\directx\Borland_D6-7
+D:\projects\proj\indy10\Lib\System
+d:\projects\proj\tree
+D:\projects\proj\Raize\RC4\Source
+D:\projects\proj\GraphicEx
+d:\projects\proj\package1
+C:\Program Files\Devart\Sdac for Delphi 7\Lib
+C:\Program Files\Devart\Sdac for Delphi 7\Bin
+ 
+Adding Package source path:
+   d:\projects\proj\Soft Gems\Virtual Treeview\Source
+
+Reading Extra Paths from Setup.ini
+   d:\projects\proj\Soft Gems\Virtual Treeview\Source
+
+    
+Writing Search Path Registry Entry
+Removing extra characters and blank lines
+Formatting.....
+$(Delphi)\Lib
+$(Delphi)\Bin
+$(Delphi)\Imports
+$(Delphi)\Projects\Bpl
+$(Delphi)\Rave5\Lib
+d:\projects\proj\sas
+D:\projects\proj\RX\Units
+D:\projects\proj\Raize\RC4\Lib\Delphi7
+d:\projects\proj\checklisteditd7
+D:\projects\proj\graphics32-1-8-2\graphics32-1-8-2
+D:\projects\proj\advoutlooklistd7
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressCommon Library\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressGDI+ Library\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\XP Theme Manager\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressLibrary\Sources
+D:\projects\proj\DevExpress.ExpressBars.Suite\ExpressBars 6\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressPageControl 2\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressQuantumGrid 6\Packages
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressDataController\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressEditors Library 5\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressExport Library\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressQuantumGrid 6\Sources
+D:\projects\proj\DevExpress.ExpressQuantumGrid.Suite\ExpressEditors Library 5\Packages
+$(Delphi)\Source\ToolsAPI
+D:\projects\proj\advmemocode
+d:\projects\proj
+$(Delphi)\Projects\Bpl
+D:\projects\proj\Teechart_v8.01_FS\Sources
+c:\SystemComponents\common
+c:\SystemComponents\wmiset
+c:\program files\txlsfile\unreg_d7\bpl
+$(ProgramFiles)\TXLSFile\UNREG_D7\DCU
+D:\projects\proj\jedi\lib\d7
+D:\projects\proj\jedi\source
+D:\projects\proj\FastMM490\FastMM4
+D:\projects\proj\graphics32-1-8-2\graphics32
+D:\projects\proj\jedi\directx\Borland_D6-7
+D:\projects\proj\indy10\Lib\System
+d:\projects\proj\tree
+D:\projects\proj\Raize\RC4\Source
+D:\projects\proj\GraphicEx
+d:\projects\proj\package1
+$(ProgramFiles)\Devart\Sdac for Delphi 7\Lib
+$(ProgramFiles)\Devart\Sdac for Delphi 7\Bin
+d:\projects\proj\Soft Gems\Virtual Treeview\Source
+Writing to Key: Software\Borland\Delphi\7.0\Library  Value: Search Path
+Search Path Registry Entry written
+
+***************************************
+END: Registering Component Package Paths
+***************************************
+

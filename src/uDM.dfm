@@ -1,0 +1,53 @@
+object DM: TDM
+  OldCreateOrder = False
+  OnCreate = DataModuleCreate
+  OnDestroy = DataModuleDestroy
+  Left = 708
+  Top = 229
+  Height = 460
+  Width = 465
+  object con: TADOConnection
+    CommandTimeout = 120
+    ConnectionString = 
+      'Provider=SQLOLEDB.1;Password=Ggv123;Persist Security Info=True;U' +
+      'ser ID=kobra_main;Initial Catalog=ANN;Data Source=srvr145\sql_de' +
+      'v1'
+    ConnectionTimeout = 30
+    CursorLocation = clUseServer
+    LoginPrompt = False
+    Provider = 'SQLOLEDB.1'
+    Left = 40
+    Top = 16
+  end
+  object qQry: TADOQuery
+    Connection = RDScon
+    CursorLocation = clUseServer
+    Parameters = <>
+    Left = 200
+    Top = 40
+  end
+  object spRefresh: TADOStoredProc
+    Connection = con
+    CursorLocation = clUseServer
+    Parameters = <>
+    Left = 40
+    Top = 80
+  end
+  object spTemplates: TADOStoredProc
+    Connection = con
+    CursorLocation = clUseServer
+    ProcedureName = 'dbo.spANN_LoadTemplates'
+    Parameters = <>
+    Left = 104
+    Top = 80
+  end
+  object RDScon: TADOConnection
+    CommandTimeout = 120
+    ConnectionString = 'sql052b\srvr052b'
+    ConnectionTimeout = 30
+    CursorLocation = clUseServer
+    LoginPrompt = False
+    Left = 96
+    Top = 16
+  end
+end

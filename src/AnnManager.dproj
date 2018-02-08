@@ -1,0 +1,205 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{69C24BE2-4BE9-4352-9B69-53D98F2EEE0A}</ProjectGuid>
+			<MainSource>AnnManager.dpr</MainSource>
+			<Base>True</Base>
+			<Config Condition="'$(Config)'==''">Debug</Config>
+			<TargetedPlatforms>1</TargetedPlatforms>
+			<AppType>Application</AppType>
+			<FrameworkType>VCL</FrameworkType>
+			<ProjectVersion>13.4</ProjectVersion>
+			<Platform Condition="'$(Platform)'==''">Win32</Platform>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="('$(Platform)'=='Win64' and '$(Base)'=='true') or '$(Base_Win64)'!=''">
+			<Base_Win64>true</Base_Win64>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="('$(Platform)'=='Win32' and '$(Base)'=='true') or '$(Base_Win32)'!=''">
+			<Base_Win32>true</Base_Win32>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Release' or '$(Cfg_1)'!=''">
+			<Cfg_1>true</Cfg_1>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Debug' or '$(Cfg_2)'!=''">
+			<Cfg_2>true</Cfg_2>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base)'!=''">
+			<DCC_UnitSearchPath>D:\Components\TeeChart 8.03 - Full - 2008\Sources\Compiled\Delphi7\Lib;$(DCC_UnitSearchPath)</DCC_UnitSearchPath>
+			<DCC_Optimize>false</DCC_Optimize>
+			<VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+			<DCC_ExeOutput>..\exe</DCC_ExeOutput>
+			<VerInfo_AutoGenVersion>true</VerInfo_AutoGenVersion>
+			<DCC_Namespace>Vcl;Vcl.Imaging;Vcl.Touch;Vcl.Samples;Vcl.Shell;System;Xml;Data;Datasnap;Web;Soap;Winapi;Data.Win;Bde;System.Win;$(DCC_Namespace)</DCC_Namespace>
+			<DCC_WriteableConstants>true</DCC_WriteableConstants>
+			<DCC_UNSAFE_TYPE>true</DCC_UNSAFE_TYPE>
+			<DCC_UNSAFE_CAST>true</DCC_UNSAFE_CAST>
+			<DCC_UNSAFE_CODE>true</DCC_UNSAFE_CODE>
+			<VerInfo_Build>313</VerInfo_Build>
+			<DCC_F>false</DCC_F>
+			<DCC_E>false</DCC_E>
+			<DCC_K>false</DCC_K>
+			<DCC_S>false</DCC_S>
+			<DCC_N>true</DCC_N>
+			<DCC_UsePackage>vcl;rtl;vclx;indy;inet;xmlrtl;vclie;inetdbbde;inetdbxpress;dbrtl;dsnap;dsnapcon;vcldb;VclSmp;bdertl;webdsnap;websnap;adortl;ibxpress;visualclx;visualdbclx;vclactnband;vclshlctrls;IntrawebDB_50_70;Intraweb_50_70;dclOfficeXP;GR32_D7;ProfGridDcl;RaizeComponentsVcl;RaizeComponentsVclDb;RxCtl7;RxBDE7;RxDB7;VirtualTreesD7;dclXPMenu;dxGDIPlusD7;cxLibraryVCLD7;dxCoreD7;cxEditorsVCLD7;dxThemeD7;cxDataD7;cxExtEditorsVCLD7;dxEdtrD7;dxELibD7;dxDockingD7;dxComnD7;dxsbD7;dxNavBarD7;dxLayoutControlD7;dxLayoutControlcxEditAdaptersD7;dxLayoutControldxEditAdaptersD7;cxSpreadSheetVCLD7;EQTLD7;ECQDBCD7;EQDBTLD7;cxTreeListVCLD7;EQGridD7;dxGrEdD7;dxExELD7;cxPageControlVCLD7;cxGridD7;cxVerticalGridVCLD7;dxFlowChartD7;cxSchedulerD7;cxSchedulerGridD7;dxorgcD7;dxdborD7;dxMasterViewD7;cxWebD7;cxWebPascalScriptD7;cxWebSnapD7;dxmdsD7;dxdbtrD7;dxtrmdD7;dxPSCoreD7;dxPSLnksD7;dxPScxCommonD7;dxPScxExtCommonD7;dxPScxPCProdD7;dxPScxSSLnkD7;dxPScxTLLnkD7;dxPScxVGridLnkD7;dxPSdxDBTVLnkD7;dxPSdxFCLnkD7;dxPSdxLCLnkD7;dxPSdxMVLnkD7;dxPSdxOCLnkD7;dxPSdxDBOCLnkD7;dxPSTLLnkD7;dxPSdxDBTLLnkD7;dxPSdxDBCtrlLnkD7;dxPSdxInsLnkD7;dxInsD7;dxPSdxOILnkD7;dxObjInsD7;dxPSdxDBGrLnkD7;dxPScxGrid6LnkD7;cxPivotGridD7;cxPivotGridChartD7;cxPivotGridOLAPD7;dxDBEdD7;dxExRwD7;dxSpellCheckerD7;EditCmpsDcl;SASDcl;WebLoggerDcl;Package1;fs7;frx7;frxcs7;fsDB7;frxDB7;fsBDE7;frxBDE7;fsADO7;frxADO7;fsIBX7;frxIBX7;frxDBX7;frxe7;fsTee7;frxTee7;Gleb;Tee87;TeeUI87;TeeDB87;TeePro87;TeeGL87;TeeImage87;TeeLanguage87;TeeWorld87;dbexpress;$(DCC_UsePackage)</DCC_UsePackage>
+			<DCC_ImageBase>00400000</DCC_ImageBase>
+			<VerInfo_Keys>CompanyName=ОАО &quot;РИВЦ-Пулково&quot;;FileDescription=Звуковое информирование пассажиров;FileVersion=1.0.0.313;InternalName=AnnManager;LegalCopyright=;LegalTrademarks=;OriginalFilename=AnnManager;ProductName=АС КОБРА;ProductVersion=1.0.0.0</VerInfo_Keys>
+			<VerInfo_Locale>1049</VerInfo_Locale>
+			<DCC_DcuOutput>..\dcu</DCC_DcuOutput>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base_Win64)'!=''">
+			<Icon_MainIcon>AnnManager_Icon.ico</Icon_MainIcon>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base_Win32)'!=''">
+			<VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+			<Icon_MainIcon>AnnManager_Icon.ico</Icon_MainIcon>
+			<DCC_Namespace>Winapi;System.Win;Data.Win;Datasnap.Win;Web.Win;Soap.Win;Xml.Win;Bde;$(DCC_Namespace)</DCC_Namespace>
+			<VerInfo_Locale>1033</VerInfo_Locale>
+			<Manifest_File>$(BDS)\bin\default_app.manifest</Manifest_File>
+			<VerInfo_Keys>CompanyName=;FileDescription=;FileVersion=1.0.0.0;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProductName=;ProductVersion=1.0.0.0;Comments=</VerInfo_Keys>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1)'!=''">
+			<DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
+			<DCC_DebugInformation>false</DCC_DebugInformation>
+			<DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+			<DCC_Define>RELEASE;$(DCC_Define)</DCC_Define>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2)'!=''">
+			<DCC_Define>DEBUG;$(DCC_Define)</DCC_Define>
+			<DCC_GenerateStackFrames>true</DCC_GenerateStackFrames>
+		</PropertyGroup>
+		<ItemGroup>
+			<DelphiCompile Include="$(MainSource)">
+				<MainSource>MainSource</MainSource>
+			</DelphiCompile>
+			<DCCReference Include="uMain.pas">
+				<Form>fmAnnManager</Form>
+			</DCCReference>
+			<DCCReference Include="Utils.pas"/>
+			<DCCReference Include="uAppInfo.pas"/>
+			<DCCReference Include="uDM.pas">
+				<Form>DM</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="intf_access.pas"/>
+			<DCCReference Include="uStruct.pas"/>
+			<DCCReference Include="intf_fi.pas"/>
+			<DCCReference Include="EventSettings.pas">
+				<Form>fmEventSettings</Form>
+			</DCCReference>
+			<DCCReference Include="AirportList.pas">
+				<Form>fmAirportList</Form>
+			</DCCReference>
+			<DCCReference Include="SingleMessage.pas">
+				<Form>fmSingleMessage</Form>
+			</DCCReference>
+			<DCCReference Include="uMsgStantardSettings.pas">
+				<Form>fmMsgStantardSettings</Form>
+			</DCCReference>
+			<DCCReference Include="uAnnLog.pas">
+				<Form>frmAnnLog</Form>
+			</DCCReference>
+			<DCCReference Include="uSeconds.pas">
+				<Form>frmSeconds</Form>
+			</DCCReference>
+			<DCCReference Include="uLanguages.pas">
+				<Form>frmLanguages</Form>
+			</DCCReference>
+			<DCCReference Include="uZones.pas">
+				<Form>frmZones</Form>
+			</DCCReference>
+			<DCCReference Include="intf_AnnApLib.pas"/>
+			<DCCReference Include="uLangRules.pas">
+				<Form>frmLangRules</Form>
+			</DCCReference>
+			<DCCReference Include="uZoneDef.pas">
+				<Form>frmZoneDef</Form>
+			</DCCReference>
+			<DCCReference Include="uGateExit.pas">
+				<Form>frmGateExit</Form>
+			</DCCReference>
+			<DCCReference Include="uDelayReason.pas">
+				<Form>fmDelayReason</Form>
+			</DCCReference>
+			<DCCReference Include="uTemplateEdit.pas">
+				<Form>fmTemplateEdit</Form>
+			</DCCReference>
+			<DCCReference Include="uDelayEdit.pas">
+				<Form>DelayEdit</Form>
+			</DCCReference>
+			<DCCReference Include="SAPIInterface.pas"/>
+			<DCCReference Include="uCheckinTempl.pas">
+				<Form>fmCheckinTempl</Form>
+			</DCCReference>
+			<DCCReference Include="uCheckinTemplEdit.pas">
+				<Form>fmCheckinTemplEdit</Form>
+			</DCCReference>
+			<BuildConfiguration Include="Debug">
+				<Key>Cfg_2</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Base">
+				<Key>Base</Key>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Release">
+				<Key>Cfg_1</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Delphi.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Delphi.Personality>
+					<Source>
+						<Source Name="MainSource">AnnManager.dpr</Source>
+					</Source>
+					<Language>
+						<Language Name="RootDir">D:\РИВЦ-Пулково\проекты\АС КОБРА\AnnouncerManager\src\</Language>
+					</Language>
+					<VersionInfo>
+						<VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+						<VersionInfo Name="AutoIncBuild">True</VersionInfo>
+						<VersionInfo Name="MajorVer">1</VersionInfo>
+						<VersionInfo Name="MinorVer">0</VersionInfo>
+						<VersionInfo Name="Release">0</VersionInfo>
+						<VersionInfo Name="Build">313</VersionInfo>
+						<VersionInfo Name="Debug">False</VersionInfo>
+						<VersionInfo Name="PreRelease">False</VersionInfo>
+						<VersionInfo Name="Special">False</VersionInfo>
+						<VersionInfo Name="Private">False</VersionInfo>
+						<VersionInfo Name="DLL">False</VersionInfo>
+						<VersionInfo Name="Locale">1049</VersionInfo>
+						<VersionInfo Name="CodePage">1251</VersionInfo>
+					</VersionInfo>
+					<VersionInfoKeys>
+						<VersionInfoKeys Name="CompanyName">ОАО &quot;РИВЦ-Пулково&quot;</VersionInfoKeys>
+						<VersionInfoKeys Name="FileDescription">Звуковое информирование пассажиров</VersionInfoKeys>
+						<VersionInfoKeys Name="FileVersion">1.0.0.313</VersionInfoKeys>
+						<VersionInfoKeys Name="InternalName">AnnManager</VersionInfoKeys>
+						<VersionInfoKeys Name="LegalCopyright"/>
+						<VersionInfoKeys Name="LegalTrademarks"/>
+						<VersionInfoKeys Name="OriginalFilename">AnnManager</VersionInfoKeys>
+						<VersionInfoKeys Name="ProductName">АС КОБРА</VersionInfoKeys>
+						<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+					</VersionInfoKeys>
+				</Delphi.Personality>
+				<Platforms>
+					<Platform value="Win64">False</Platform>
+					<Platform value="Win32">True</Platform>
+				</Platforms>
+			</BorlandProject>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Delphi.Targets')" Project="$(BDS)\Bin\CodeGear.Delphi.Targets"/>
+		<Import Condition="Exists('$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj')" Project="$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj"/>
+	</Project>
